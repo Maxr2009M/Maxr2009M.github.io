@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #A65A00;
+    border-radius: 100px;
+    padding: 10px;
+}
+
+i {
+    color: chartreuse;
+}
+
+footer {
+    background-color: brown;
+}
+
+nav {
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    border: 3px solid #FF8B00;
+    border-radius: 10px;
+    background-color: #FF8B00;
+    text-align: center;
+    margin: 10PX;
+}
+
+a {
+    color: #090974;
+    text-decoration: none;
+}
+nav a{ padding: 10PX;}
+
+.seredina {
+    background-color: green;
+    border-radius: 10px;
+    padding: 10PX
+}
+
+h2 {
+    color: navy;
+}
+
+.g {
+    border: solid 5px green;
+    border-radius: 10px;
+}
+
+header img {
+    border-radius: 20px;
+}
+
